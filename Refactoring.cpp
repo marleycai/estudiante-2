@@ -135,7 +135,6 @@ int main(){
         cout << "el pelicano, su codigo es 345,645 \n";
          cout << "\n";
 
-        system("pause");   // ejecute el pauseprograma
         return 0;
 
 }
